@@ -1,0 +1,96 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "peter griffin",
+      "price": 100,
+      "sold": 15,
+      "reviews": 2,
+      "slug": "peter-griffin",
+      "description": "Introducing Peter Griffin, the lovably absurd and hilariously clueless patriarch of the Griffin family from the animated sitcom Family Guy. Peter is a walking spectacle of comedic chaos, renowned for his unconventional antics and lack of filter.",
+      "image": "https://res.cloudinary.com/dakts9ect/image/upload/v1683834164/fcc-family-guys/peter/peter-griffin-facts-730x456_pesfxs.png"
+    },
+    {
+      "id": 2,
+      "name": "stewie griffin",
+      "price": 50,
+      "sold": 10,
+      "reviews": 5,
+      "slug": "stewie-griffin",
+      "description": "Stewie Griffin is a highly intelligent and diabolically clever baby with a British accent. Despite his young age, Stewie possesses a dark and twisted sense of humor, often plotting elaborate schemes to eliminate his mother, Lois, or to conquer the world.",
+      "image": "https://res.cloudinary.com/dakts9ect/image/upload/v1683835731/fcc-family-guys/stewie/stewie-family-guy-fox-1085482_qxxhmu.jpg"
+    },
+    {
+      "id": 3,
+      "name": "lois griffin",
+      "price": 20,
+      "sold": 12,
+      "reviews": 4,
+      "description": "Lois Griffin is the matriarch of the Griffin family. She is a loving and caring wife to Peter Griffin and a devoted mother to her children, Meg, Chris, and Stewie. Lois often finds herself balancing the chaotic antics of her family while trying to maintain a sense of order in their lives.",
+      "image": "https://res.cloudinary.com/dakts9ect/image/upload/v1683839726/fcc-family-guys/lois/SEI_138632406-3458_dcwzu3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "meg griffin",
+      "price": 150,
+      "sold": 18,
+      "reviews": 15,
+      "description": "Meg Griffin is the eldest daughter of the Griffin family. As a teenager, Meg often finds herself the target of ridicule and mistreatment, both at school and within her own family. Despite the constant challenges she faces, Meg maintains a resilient spirit and strives to find her place in the world.",
+      "image": "https://res.cloudinary.com/dakts9ect/image/upload/v1683839932/fcc-family-guys/meg/images_ycikcx.png"
+    },
+    {
+      "id": 5,
+      "name": "joe swanson",
+      "price": 40,
+      "sold": 1,
+      "reviews": 0,
+      "description": "Introducing Joe Swanson, the resilient wheelchair-bound police officer from the animated sitcom Family Guy. Joe is a character who defies expectations and showcases the triumph of the human spirit. Despite facing the challenges of being paralyzed from the waist down, Joe's indomitable willpower and unwavering determination shine through in every aspect of his life. With his quick wit and sharp sense of humor, Joe proves that being a hero is not about physical abilities but about the strength of character.",
+      "image": "https://res.cloudinary.com/dakts9ect/image/upload/v1683893882/fcc-family-guys/joe/Joe_Swanson_soundboard_g9qhys.png"
+    },
+    {
+      "id": 6,
+      "name": "bonnie swanson",
+      "price": 33,
+      "sold": 12,
+      "reviews": 9,
+      "description": "Introducing Bonnie Swanson, a beloved character from the animated sitcom Family Guy. Bonnie brings a touch of warmth and resilience to the vibrant community of Quahog. As a dedicated wife, nurturing mother, and loyal friend, Bonnie's presence adds depth and heart to the show's ensemble cast. Her unwavering determination and unwavering support for her loved ones make her an integral part of the fabric of the community, proving that strength comes in many forms.",
+      "image": "https://res.cloudinary.com/dakts9ect/image/upload/v1683894216/fcc-family-guys/bonnie/MV5BNjk1MGVhZDctMWYyZS00ZTQzLTk1MTEtYzAzOWVjZWQ1MWIwXkEyXkFqcGdeQXVyMjYwNDA2MDE_._V1__q4bhdj.jpg"
+    },
+    {
+      "id": 7,
+      "name": "glenn quagmire",
+      "price": 67,
+      "sold": 9,
+      "reviews": 5,
+      "description": "Glenn Quagmire, often referred to as just 'Quagmire,' is Peter's eccentric and wildly promiscuous neighbor. Known for his distinctive voice and catchphrase 'Giggity giggity goo,' Quagmire is always on the prowl for his next romantic conquest and is infamous for his outrageous and often inappropriate behavior.",
+      "image": "https://res.cloudinary.com/dakts9ect/image/upload/v1683894743/fcc-family-guys/quagmire/k1h6a4qz-1920_bjbld4.jpg"
+    },
+    {
+      "id": 8,
+      "name": "brian griffin",
+      "price": 18,
+      "sold": 18,
+      "reviews": 18,
+      "description": "Brian Griffin is the Griffin family's anthropomorphic pet dog and the voice of reason amidst the chaos. He is known for his intellectual pursuits, his love for martinis, and his wit. Brian often serves as the moral compass of the group and engages in various adventures and misadventures alongside the family.",
+      "image": "https://res.cloudinary.com/dakts9ect/image/upload/v1683835426/fcc-family-guys/brian/best-brian-griffin-quotes_hl7ncy.jpg"
+    },
+    {
+      "id": 9,
+      "name": "chris griffin",
+      "price": 5,
+      "sold": 100,
+      "reviews": 55,
+      "description": "Chris Griffin is the lovable but dim-witted teenage son of Peter and Lois Griffin. Chris often finds himself unintentionally involved in absurd situations, making him a constant source of comedic moments in the show. Despite his lack of intelligence, Chris has a heart of gold and possesses a unique innocence that endears him to those around him.",
+      "image": "https://res.cloudinary.com/dakts9ect/image/upload/v1683895641/fcc-family-guys/chris/9f72e811-1ec5-43b5-ba0b-b7488fce79a5_screenshot_z9hisi.jpg"
+    },
+    {
+      "id": 10,
+      "name": "adam west",
+      "price": 29,
+      "sold": 22,
+      "reviews": 9,
+      "description": "Adam West is a fictionalized version of the late actor himself, serving as the eccentric and quirky mayor of Quahog. Known for his bizarre and nonsensical behavior, Adam West adds a touch of hilarity to the show with his outrageous antics.",
+      "image": "https://res.cloudinary.com/dakts9ect/image/upload/v1683895832/fcc-family-guys/adam/3261321-screen_shot_2017-07-18_at_9.07.30_am_m1e56b.png"
+    }
+  ]
+}
